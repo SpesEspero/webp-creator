@@ -1,0 +1,16 @@
+{
+  "name": "image-performer",
+  "description": "Image Performer",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "4.0.2",
+    "gulp-libsquoosh": "^1.0.12"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "engines": {
+    "node": "^16"
+  },
+  "type": "module"
+}
